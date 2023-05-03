@@ -3,5 +3,5 @@ AutoTag-YOLOv8 is an object detection project that uses the YOLOv8 model and lev
 
 Example video output:
 
+[![IMAGE ALT TEXT HERE](https://youtu.be/8aCaEIrQqcAE/0.jpg)](https://youtu.be/8aCaEIrQqcA)
 
-<video src='https://youtu.be/8aCaEIrQqcA' width=180/>
