@@ -3,7 +3,7 @@ AutoTag-YOLOv8 is an object detection project that uses the YOLOv8 model and lev
 
 Auto Detect DINO and SAM : [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15qy6HP7uAVLMq8Y-CSM5u1dOQtJsZ0AW?authuser=6#scrollTo=1euQGJ3ZG32x)
 
-Instance segmentation with YOLOv8 : [![Open In Colab]([[https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VEDCtwmpeEY-IzaON3YgBdeq7xhOSBuf?authuser=6#scrollTo=i4eASbcWkQBq)
+Instance segmentation with YOLOv8 : [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VEDCtwmpeEY-IzaON3YgBdeq7xhOSBuf?authuser=6#scrollTo=i4eASbcWkQBq)
 
 DINO and SAM model otomatic labeled example:
 
